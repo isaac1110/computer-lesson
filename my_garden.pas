@@ -7,6 +7,6 @@ begin
     readln(wid);
     area:=len*wid;
     fence:=2*(len+wid);
-    writeln('Area of garden = ',area);
-    writeln('Length of fence = ',fence:0)
+    writeln('Area of garden = ',area:10:2);
+    writeln('Length of fence = ',fence:10:2)
 end.
