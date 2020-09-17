@@ -1,0 +1,11 @@
+begin
+    writeln(random()*10:8:2);
+    writeln(random()*10:8:2);
+    writeln(random()*10:8:2);
+    writeln(random()*10:8:2);
+    writeln(random()*10:6:2);
+    writeln(random()*10:6:2);
+    writeln(random()*10:6:2);
+    writeln(random()*10:6:2);
+    writeln('12345678');
+end.
