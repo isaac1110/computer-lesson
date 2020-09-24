@@ -8,6 +8,6 @@ begin
     end
     else begin
         readln(c);
-        writeln(f*9/5+32:10:2);
+        writeln(c*9/5+32:10:2);
     end;
 end.
